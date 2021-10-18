@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# Bebidas
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Consiste en un buscado que te muestra las recetas de los ingredientes que elegiste para realizar una bebida ( ej: en el buscador se coloca "Café" y en la otra pestaña "cocktail" y mostrará las recetas que se pueden lograr)
 
-## Available Scripts
+## Como iniciar
 
-In the project directory, you can run:
+en comandos usar:
 
-### `npm start`
+npm install
 
+luego de ello : npm start
