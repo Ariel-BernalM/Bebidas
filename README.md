@@ -4,8 +4,6 @@ Consiste en un buscado que te muestra las recetas de los ingredientes que elegis
 
 ## Como iniciar
 
-en comandos usar:
-
-npm install
+en comandos usar: npm install
 
 luego de ello : npm start
